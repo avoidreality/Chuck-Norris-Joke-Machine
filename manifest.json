@@ -1,0 +1,11 @@
+{
+    "name": "Chuck Norris Joke Machine",
+    "version": "1.0.0",
+    "description": "A random Chuck Norris joke",
+    "manifest_version": 3,
+    "author": "Smith, Kyle",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Chuck Norris Jokes"
+    }
+}
