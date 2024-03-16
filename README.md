@@ -17,7 +17,7 @@ If you want to install this on your own Google Chrome Web Browser you can! Pleas
   5. Done. Congrats! Great job. 
 
 If these instructions did not make sense to you or you would like screenshots of this process please see this webpage: https://www.freecodecamp.org/news/building-chrome-extension/ 
-Look towards the bottom under the "manifest.json" section for how to install your own Google Chrome Extension. 
+Look towards the bottom under the "Manifest.json File" section for how to install your own Google Chrome Extension. 
 
 ## Example Usage
 This is what you should see if you install the software correctly, which is easy really. 
