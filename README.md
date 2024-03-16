@@ -14,3 +14,7 @@ If you want to install this on your own Google Chrome Web Browser you can! Pleas
   4. The extension is now installed. Click the puzzle piece at the top right. Then select the Chuck Norris Joke Machine. 
   5. Done. Congrats! Great job. 
 
+If these instructions did not make sense to you or you would like screenshots of this process please see this webpage: https://www.freecodecamp.org/news/building-chrome-extension/ 
+Look towards the bottom under the "manifest.json" section for how to install your own Google Chrome Extension. 
+
+Thank-you for reading this! Please have a great day. Peace.
