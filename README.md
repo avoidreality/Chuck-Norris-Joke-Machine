@@ -12,7 +12,7 @@ If you want to install this on your own Google Chrome Web Browser you can! Pleas
   1. Download the files in this repo and put them in the same folder
   1. Click the 3 vertical dots, kebab, on the top right of your Google Chrome Web Browser. 
   2. In the menu that opens click "Extensions" and then click "Manage Extensions"
-  3. Click "Load Unpacked" on the top left side of the web page. Then find the folder you put the files in (step 0) and select this folder.
+  3. Click "Load Unpacked" on the top left side of the web page. Then find the folder you put the files in (step 1) and select this folder.
   4. The extension is now installed. Click the puzzle piece at the top right. Then select the Chuck Norris Joke Machine. 
   5. Done. Congrats! Great job. 
 
