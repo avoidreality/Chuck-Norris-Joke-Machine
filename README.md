@@ -17,4 +17,9 @@ If you want to install this on your own Google Chrome Web Browser you can! Pleas
 If these instructions did not make sense to you or you would like screenshots of this process please see this webpage: https://www.freecodecamp.org/news/building-chrome-extension/ 
 Look towards the bottom under the "manifest.json" section for how to install your own Google Chrome Extension. 
 
+## Example Usage
+This is what you should see if you install the software correctly, which is easy really. 
+
+<img width="455" alt="Screenshot 2024-03-16 at 2 20 48 PM" src="https://github.com/avoidreality/Chuck-Norris-Joke-Machine/assets/40212334/ca4eb3e0-0839-4660-917f-b4f63cde1f0c">
+
 Thank-you for reading this! Please have a great day. Peace.
