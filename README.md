@@ -1,6 +1,8 @@
 # Chuck Norris Joke Machine
 
-A Google Chrome Extension that will give you a random Chuck Norris joke! The funny cure for your existential dread...
+A Google Chrome Extension that will give you a random Chuck Norris joke!
+
+### **The funny cure for your existential dread...**
 
 ![image](https://github.com/avoidreality/Chuck_Norris_Jokes_Chrome/assets/40212334/d66ecb52-11aa-411b-a533-d8b696d53150)
 
