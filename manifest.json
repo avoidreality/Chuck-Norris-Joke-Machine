@@ -1,6 +1,9 @@
 {
     "name": "Chuck Norris Joke Machine",
     "version": "1.0.0",
+    "icons": {
+      "128": "icons/walker_8bit.png"
+    },
     "description": "A random Chuck Norris joke",
     "manifest_version": 3,
     "author": "Smith, Kyle",
